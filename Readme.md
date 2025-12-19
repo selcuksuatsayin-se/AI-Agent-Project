@@ -4,9 +4,12 @@ This project is a real-time **AI Agent chat application** designed to manage bil
 
 ---
 
-## 🚀 Presentation Video
+## 🔗 Code Repository
+**Github Repository:** [https://github.com/selcuksuatsayin-se/AI-Agent-Project](https://github.com/selcuksuatsayin-se/AI-Agent-Project)
 
-Watch the project demo here:
+---
+
+## 🎥 Project Demo Video
 👉 **[[demo-video](https://youtu.be/jvPekQdEozM)]**
 
 ---
@@ -112,8 +115,3 @@ npm run dev
 ```
 
 ---
-
-## 🔗 Links
-
-- **GitHub Repository**:
-  [https://github.com/selcuksuatsayin-se/AI-Agent-Project](https://github.com/selcuksuatsayin-se/AI-Agent-Project)
