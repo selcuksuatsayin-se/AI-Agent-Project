@@ -7,7 +7,7 @@ This project is a real-time **AI Agent chat application** designed to manage bil
 ## 🚀 Presentation Video
 
 Watch the project demo here:
-👉 **[LINK_TO_YOUR_VIDEO_HERE]**
+👉 **[[demo-video](https://youtu.be/jvPekQdEozM)]**
 
 ---
 
